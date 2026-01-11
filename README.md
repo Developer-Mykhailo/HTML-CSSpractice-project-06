@@ -1,2 +1,2 @@
 # goit-markup-hw-06
-This is the mobile and tablet version of previous project
+The project has been created to practice HTML, CSS
